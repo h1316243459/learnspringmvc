@@ -1,0 +1,12 @@
+# Project exclude paths
+/01-firstspringmvc/target/
+/02urlpattern/target/
+/04_requestparams/target/
+/05_returnvalue/target/
+/06redirect/target/
+/07exception/target/
+/09validaton/target/
+/11interceptor/target/
+/12crud/target/
+/13restful/target/
+/_10upload/target/

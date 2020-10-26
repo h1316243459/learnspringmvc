@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="_06redirect" />
+        <module name="_13restful" />
+        <module name="_09validaton" />
+        <module name="_02urlpattern" />
+        <module name="_11interceptor" />
+        <module name="_05_returnvalue" />
+        <module name="_12crud" />
+        <module name="_01firstspringmvc" />
+        <module name="_07exception" />
+        <module name="_04requestparams" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
